@@ -11,7 +11,7 @@
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
     <text x="24" y="34" fill="#1f2328" font-size="16" font-weight="700">Star History</text>
     <text x="126" y="34" fill="#656d76" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Shinhappens/last30days-skill</text>
-    <text x="24" y="53" fill="#656d76" font-size="12">Jan 2026 – Nov 27, 2026  ·  +8,243 last 30d</text>
+    <text x="24" y="53" fill="#656d76" font-size="12">Jan 2026 – Nov 28, 2026  ·  +8,146 last 30d</text>
 
     <rect x="732" y="20" width="84" height="28" rx="14" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1" />
     <path d="M748 27.5l1.85 3.75 4.14.6-3 2.92.71 4.13L748 36.95l-3.7 1.95.71-4.13-3-2.92 4.14-.6z" fill="#eab308" />
@@ -29,47 +29,47 @@
   <text x="52" y="78.0" text-anchor="end" fill="#656d76" font-size="11.5" font-weight="500">80K</text>
   <line x1="77.8" y1="336.0" x2="77.8" y2="341.0" stroke="#d0d7de" stroke-width="1" />
   <text x="77.8" y="356.0" text-anchor="middle" fill="#656d76" font-size="11.5" font-weight="500">Feb</text>
-  <line x1="141.2" y1="336.0" x2="141.2" y2="341.0" stroke="#d0d7de" stroke-width="1" />
-  <text x="141.2" y="356.0" text-anchor="middle" fill="#656d76" font-size="11.5" font-weight="500">Mar</text>
-  <line x1="211.3" y1="336.0" x2="211.3" y2="341.0" stroke="#d0d7de" stroke-width="1" />
-  <text x="211.3" y="356.0" text-anchor="middle" fill="#656d76" font-size="11.5" font-weight="500">Apr</text>
-  <line x1="279.1" y1="336.0" x2="279.1" y2="341.0" stroke="#d0d7de" stroke-width="1" />
-  <text x="279.1" y="356.0" text-anchor="middle" fill="#656d76" font-size="11.5" font-weight="500">May</text>
-  <line x1="349.2" y1="336.0" x2="349.2" y2="341.0" stroke="#d0d7de" stroke-width="1" />
-  <text x="349.2" y="356.0" text-anchor="middle" fill="#656d76" font-size="11.5" font-weight="500">Jun</text>
-  <line x1="417.0" y1="336.0" x2="417.0" y2="341.0" stroke="#d0d7de" stroke-width="1" />
-  <text x="417.0" y="356.0" text-anchor="middle" fill="#656d76" font-size="11.5" font-weight="500">Jul</text>
-  <line x1="487.2" y1="336.0" x2="487.2" y2="341.0" stroke="#d0d7de" stroke-width="1" />
-  <text x="487.2" y="356.0" text-anchor="middle" fill="#656d76" font-size="11.5" font-weight="500">Aug</text>
-  <line x1="557.3" y1="336.0" x2="557.3" y2="341.0" stroke="#d0d7de" stroke-width="1" />
-  <text x="557.3" y="356.0" text-anchor="middle" fill="#656d76" font-size="11.5" font-weight="500">Sep</text>
-  <line x1="625.1" y1="336.0" x2="625.1" y2="341.0" stroke="#d0d7de" stroke-width="1" />
-  <text x="625.1" y="356.0" text-anchor="middle" fill="#656d76" font-size="11.5" font-weight="500">Oct</text>
-  <line x1="695.2" y1="336.0" x2="695.2" y2="341.0" stroke="#d0d7de" stroke-width="1" />
-  <text x="695.2" y="356.0" text-anchor="middle" fill="#656d76" font-size="11.5" font-weight="500">Nov</text>
+  <line x1="140.9" y1="336.0" x2="140.9" y2="341.0" stroke="#d0d7de" stroke-width="1" />
+  <text x="140.9" y="356.0" text-anchor="middle" fill="#656d76" font-size="11.5" font-weight="500">Mar</text>
+  <line x1="210.8" y1="336.0" x2="210.8" y2="341.0" stroke="#d0d7de" stroke-width="1" />
+  <text x="210.8" y="356.0" text-anchor="middle" fill="#656d76" font-size="11.5" font-weight="500">Apr</text>
+  <line x1="278.4" y1="336.0" x2="278.4" y2="341.0" stroke="#d0d7de" stroke-width="1" />
+  <text x="278.4" y="356.0" text-anchor="middle" fill="#656d76" font-size="11.5" font-weight="500">May</text>
+  <line x1="348.3" y1="336.0" x2="348.3" y2="341.0" stroke="#d0d7de" stroke-width="1" />
+  <text x="348.3" y="356.0" text-anchor="middle" fill="#656d76" font-size="11.5" font-weight="500">Jun</text>
+  <line x1="415.9" y1="336.0" x2="415.9" y2="341.0" stroke="#d0d7de" stroke-width="1" />
+  <text x="415.9" y="356.0" text-anchor="middle" fill="#656d76" font-size="11.5" font-weight="500">Jul</text>
+  <line x1="485.8" y1="336.0" x2="485.8" y2="341.0" stroke="#d0d7de" stroke-width="1" />
+  <text x="485.8" y="356.0" text-anchor="middle" fill="#656d76" font-size="11.5" font-weight="500">Aug</text>
+  <line x1="555.6" y1="336.0" x2="555.6" y2="341.0" stroke="#d0d7de" stroke-width="1" />
+  <text x="555.6" y="356.0" text-anchor="middle" fill="#656d76" font-size="11.5" font-weight="500">Sep</text>
+  <line x1="623.3" y1="336.0" x2="623.3" y2="341.0" stroke="#d0d7de" stroke-width="1" />
+  <text x="623.3" y="356.0" text-anchor="middle" fill="#656d76" font-size="11.5" font-weight="500">Oct</text>
+  <line x1="693.1" y1="336.0" x2="693.1" y2="341.0" stroke="#d0d7de" stroke-width="1" />
+  <text x="693.1" y="356.0" text-anchor="middle" fill="#656d76" font-size="11.5" font-weight="500">Nov</text>
 
-    <path d="M62.0,336.0 L64.3,335.0 L66.5,332.7 L71.0,331.1 L86.9,329.4 L109.5,327.8 L136.6,326.2 L172.8,322.9 L190.9,321.3 L193.2,319.6 L195.4,316.4 L197.7,306.5 L199.9,300.0 L202.2,293.4 L206.7,286.9 L213.5,280.3 L227.1,273.8 L240.7,267.2 L261.0,260.7 L306.2,254.1 L337.9,250.8 L358.2,247.6 L362.8,237.8 L365.0,231.2 L367.3,218.1 L369.6,211.6 L376.3,205.0 L385.4,195.8 L426.1,178.2 L466.8,164.1 L505.2,149.1 L545.9,143.3 L586.7,134.4 L611.5,130.3 L613.8,129.8 L616.1,129.6 L618.3,129.3 L620.6,129.0 L622.8,128.7 L625.1,128.5 L627.4,128.4 L629.6,128.2 L631.9,128.0 L634.1,127.7 L636.4,127.6 L638.7,127.4 L640.9,127.1 L643.2,126.9 L645.5,126.7 L647.7,126.4 L650.0,126.1 L652.2,125.8 L654.5,125.5 L656.8,125.0 L659.0,124.7 L661.3,124.4 L663.5,124.2 L665.8,123.8 L668.1,123.5 L670.3,123.1 L672.6,122.7 L674.8,122.4 L677.1,122.1 L679.4,121.6 L681.6,121.2 L683.9,120.8 L686.2,120.5 L688.4,120.2 L690.7,119.8 L692.9,119.4 L695.2,119.0 L697.5,118.6 L699.7,118.2 L702.0,117.8 L704.2,117.4 L706.5,117.0 L708.8,116.7 L711.0,116.5 L713.3,116.1 L715.6,115.8 L717.8,115.4 L720.1,115.1 L722.3,114.7 L724.6,114.3 L726.9,114.0 L729.1,113.0 L731.4,110.0 L733.6,106.9 L735.9,104.2 L738.2,102.1 L740.4,100.3 L742.7,97.9 L745.0,95.5 L747.2,93.5 L754.0,93.5 L754.0,336.0 L62.0,336.0 Z" fill="url(#starArea_light)" />
-    <path d="M62.0,336.0 L64.3,335.0 L66.5,332.7 L71.0,331.1 L86.9,329.4 L109.5,327.8 L136.6,326.2 L172.8,322.9 L190.9,321.3 L193.2,319.6 L195.4,316.4 L197.7,306.5 L199.9,300.0 L202.2,293.4 L206.7,286.9 L213.5,280.3 L227.1,273.8 L240.7,267.2 L261.0,260.7 L306.2,254.1 L337.9,250.8 L358.2,247.6 L362.8,237.8 L365.0,231.2 L367.3,218.1 L369.6,211.6 L376.3,205.0 L385.4,195.8 L426.1,178.2 L466.8,164.1 L505.2,149.1 L545.9,143.3 L586.7,134.4 L611.5,130.3 L613.8,129.8 L616.1,129.6 L618.3,129.3 L620.6,129.0 L622.8,128.7 L625.1,128.5 L627.4,128.4 L629.6,128.2 L631.9,128.0 L634.1,127.7 L636.4,127.6 L638.7,127.4 L640.9,127.1 L643.2,126.9 L645.5,126.7 L647.7,126.4 L650.0,126.1 L652.2,125.8 L654.5,125.5 L656.8,125.0 L659.0,124.7 L661.3,124.4 L663.5,124.2 L665.8,123.8 L668.1,123.5 L670.3,123.1 L672.6,122.7 L674.8,122.4 L677.1,122.1 L679.4,121.6 L681.6,121.2 L683.9,120.8 L686.2,120.5 L688.4,120.2 L690.7,119.8 L692.9,119.4 L695.2,119.0 L697.5,118.6 L699.7,118.2 L702.0,117.8 L704.2,117.4 L706.5,117.0 L708.8,116.7 L711.0,116.5 L713.3,116.1 L715.6,115.8 L717.8,115.4 L720.1,115.1 L722.3,114.7 L724.6,114.3 L726.9,114.0 L729.1,113.0 L731.4,110.0 L733.6,106.9 L735.9,104.2 L738.2,102.1 L740.4,100.3 L742.7,97.9 L745.0,95.5 L747.2,93.5 L754.0,93.5" fill="none" stroke="#2563eb" stroke-width="2.75" stroke-linejoin="round" stroke-linecap="round" />
+    <path d="M62.0,336.0 L64.3,335.0 L66.5,332.7 L71.0,331.1 L86.8,329.4 L109.3,327.8 L136.4,326.2 L172.4,322.9 L190.5,321.3 L192.7,319.6 L195.0,316.4 L197.2,306.5 L199.5,300.0 L201.8,293.4 L206.3,286.9 L213.0,280.3 L226.5,273.8 L240.1,267.2 L260.4,260.7 L305.4,254.1 L337.0,250.8 L357.3,247.6 L361.8,237.8 L364.0,231.2 L366.3,218.1 L368.6,211.6 L375.3,205.0 L384.3,195.8 L424.9,178.2 L465.5,164.1 L503.8,149.1 L544.4,143.3 L584.9,134.4 L609.7,130.3 L612.0,129.8 L614.2,129.6 L616.5,129.3 L618.8,129.0 L621.0,128.7 L623.3,128.5 L625.5,128.4 L627.8,128.2 L630.0,128.0 L632.3,127.7 L634.5,127.6 L636.8,127.4 L639.0,127.1 L641.3,126.9 L643.6,126.7 L645.8,126.4 L648.1,126.1 L650.3,125.8 L652.6,125.5 L654.8,125.0 L657.1,124.7 L659.3,124.4 L661.6,124.2 L663.8,123.8 L666.1,123.5 L668.3,123.1 L670.6,122.7 L672.9,122.4 L675.1,122.1 L677.4,121.6 L679.6,121.2 L681.9,120.8 L684.1,120.5 L686.4,120.2 L688.6,119.8 L690.9,119.4 L693.1,119.0 L695.4,118.6 L697.6,118.2 L699.9,117.8 L702.2,117.4 L704.4,117.0 L706.7,116.7 L708.9,116.5 L711.2,116.1 L713.4,115.8 L715.7,115.4 L717.9,115.1 L720.2,114.7 L722.4,114.3 L724.7,114.0 L727.0,113.0 L729.2,110.0 L731.5,106.9 L733.7,104.2 L736.0,102.1 L738.2,100.3 L740.5,97.9 L742.7,95.5 L745.0,93.5 L751.7,93.5 L754.0,93.5 L754.0,336.0 L62.0,336.0 Z" fill="url(#starArea_light)" />
+    <path d="M62.0,336.0 L64.3,335.0 L66.5,332.7 L71.0,331.1 L86.8,329.4 L109.3,327.8 L136.4,326.2 L172.4,322.9 L190.5,321.3 L192.7,319.6 L195.0,316.4 L197.2,306.5 L199.5,300.0 L201.8,293.4 L206.3,286.9 L213.0,280.3 L226.5,273.8 L240.1,267.2 L260.4,260.7 L305.4,254.1 L337.0,250.8 L357.3,247.6 L361.8,237.8 L364.0,231.2 L366.3,218.1 L368.6,211.6 L375.3,205.0 L384.3,195.8 L424.9,178.2 L465.5,164.1 L503.8,149.1 L544.4,143.3 L584.9,134.4 L609.7,130.3 L612.0,129.8 L614.2,129.6 L616.5,129.3 L618.8,129.0 L621.0,128.7 L623.3,128.5 L625.5,128.4 L627.8,128.2 L630.0,128.0 L632.3,127.7 L634.5,127.6 L636.8,127.4 L639.0,127.1 L641.3,126.9 L643.6,126.7 L645.8,126.4 L648.1,126.1 L650.3,125.8 L652.6,125.5 L654.8,125.0 L657.1,124.7 L659.3,124.4 L661.6,124.2 L663.8,123.8 L666.1,123.5 L668.3,123.1 L670.6,122.7 L672.9,122.4 L675.1,122.1 L677.4,121.6 L679.6,121.2 L681.9,120.8 L684.1,120.5 L686.4,120.2 L688.6,119.8 L690.9,119.4 L693.1,119.0 L695.4,118.6 L697.6,118.2 L699.9,117.8 L702.2,117.4 L704.4,117.0 L706.7,116.7 L708.9,116.5 L711.2,116.1 L713.4,115.8 L715.7,115.4 L717.9,115.1 L720.2,114.7 L722.4,114.3 L724.7,114.0 L727.0,113.0 L729.2,110.0 L731.5,106.9 L733.7,104.2 L736.0,102.1 L738.2,100.3 L740.5,97.9 L742.7,95.5 L745.0,93.5 L751.7,93.5 L754.0,93.5" fill="none" stroke="#2563eb" stroke-width="2.75" stroke-linejoin="round" stroke-linecap="round" />
 
-  <line x1="199.9" y1="300.0" x2="185.9" y2="268.0" stroke="#656d76" stroke-width="1" stroke-dasharray="2 2" opacity="0.65" />
-  <circle cx="199.9" cy="300.0" r="3.8" fill="#ffffff" stroke="#2563eb" stroke-width="2" />
-  <text x="185.9" y="262.0" text-anchor="end" fill="#1f2328" font-size="11.5" font-weight="600">#1 Trending</text>
-  <text x="185.9" y="275.0" text-anchor="end" fill="#656d76" font-size="10.5">Mar 25-27</text>
-  <line x1="367.3" y1="218.1" x2="319.3" y2="196.1" stroke="#656d76" stroke-width="1" stroke-dasharray="2 2" opacity="0.65" />
-  <circle cx="367.3" cy="218.1" r="3.8" fill="#ffffff" stroke="#2563eb" stroke-width="2" />
-  <text x="319.3" y="190.1" text-anchor="end" fill="#1f2328" font-size="11.5" font-weight="600">4d #1 Trending</text>
-  <text x="319.3" y="203.1" text-anchor="end" fill="#656d76" font-size="10.5">Jun 6-9</text>
-  <line x1="726.9" y1="114.0" x2="690.9" y2="149.0" stroke="#656d76" stroke-width="1" stroke-dasharray="2 2" opacity="0.65" />
-  <circle cx="726.9" cy="114.0" r="3.8" fill="#ffffff" stroke="#2563eb" stroke-width="2" />
-  <text x="690.9" y="160.0" text-anchor="end" fill="#1f2328" font-size="11.5" font-weight="600">v4 Launch</text>
-  <text x="690.9" y="173.0" text-anchor="end" fill="#656d76" font-size="10.5">Nov 15</text>
+  <line x1="199.5" y1="300.0" x2="185.5" y2="268.0" stroke="#656d76" stroke-width="1" stroke-dasharray="2 2" opacity="0.65" />
+  <circle cx="199.5" cy="300.0" r="3.8" fill="#ffffff" stroke="#2563eb" stroke-width="2" />
+  <text x="185.5" y="262.0" text-anchor="end" fill="#1f2328" font-size="11.5" font-weight="600">#1 Trending</text>
+  <text x="185.5" y="275.0" text-anchor="end" fill="#656d76" font-size="10.5">Mar 25-27</text>
+  <line x1="366.3" y1="218.1" x2="318.3" y2="196.1" stroke="#656d76" stroke-width="1" stroke-dasharray="2 2" opacity="0.65" />
+  <circle cx="366.3" cy="218.1" r="3.8" fill="#ffffff" stroke="#2563eb" stroke-width="2" />
+  <text x="318.3" y="190.1" text-anchor="end" fill="#1f2328" font-size="11.5" font-weight="600">4d #1 Trending</text>
+  <text x="318.3" y="203.1" text-anchor="end" fill="#656d76" font-size="10.5">Jun 6-9</text>
+  <line x1="724.7" y1="114.0" x2="688.7" y2="149.0" stroke="#656d76" stroke-width="1" stroke-dasharray="2 2" opacity="0.65" />
+  <circle cx="724.7" cy="114.0" r="3.8" fill="#ffffff" stroke="#2563eb" stroke-width="2" />
+  <text x="688.7" y="160.0" text-anchor="end" fill="#1f2328" font-size="11.5" font-weight="600">v4 Launch</text>
+  <text x="688.7" y="173.0" text-anchor="end" fill="#656d76" font-size="10.5">Nov 15</text>
 
     <circle cx="754.0" cy="93.5" r="9" fill="#2563eb" opacity="0.22" />
     <circle cx="754.0" cy="93.5" r="4.8" fill="#2563eb" stroke="#ffffff" stroke-width="2.2" />
     <text x="765.0" y="97.5" fill="#2563eb" font-size="13" font-weight="700">74K</text>
-    <text x="765.0" y="111.5" fill="#656d76" font-size="10.5">Nov 27</text>
+    <text x="765.0" y="111.5" fill="#656d76" font-size="10.5">Nov 28</text>
 
     <text x="24" y="376" fill="#656d76" font-size="10.5">GitHub Stars</text>
-    <text x="816" y="376" text-anchor="end" fill="#656d76" font-size="10.5">Updated Nov 27, 2026 · Auto-updated daily</text>
+    <text x="816" y="376" text-anchor="end" fill="#656d76" font-size="10.5">Updated Nov 28, 2026 · Auto-updated daily</text>
   </g>
 </svg>
